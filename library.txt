@@ -1,0 +1,3 @@
+MAGAZINE,Clean Code second,25
+DVD,Interstellar,Christopher Nolan,169
+REFERENCE,Oxford Dictionary,Reference Collection,GOOD,true
